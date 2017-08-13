@@ -1,2 +1,2 @@
-# project-euler
-Solving Project Euler problems at https://projecteuler.net using Javascript
+# crave
+Crave is a one-click online payment platform that makes any payments easier, faster, and more secure. The platform could be used for taxi bookings, pizza orders, restaurant reservations, online purchases, bus/plane ticket bookings, etc. Crave hopes to create a faster and more versatile payment system to curb the fragility and redaundancy of sharing your payment info with too many websites and organizations.
